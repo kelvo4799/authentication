@@ -1,2 +1,0 @@
-# authentication
-Login, Register
